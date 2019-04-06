@@ -14,7 +14,8 @@ the motivation for this project is to get to know the dataset and answer four qu
 
 ## 3. files in the repository 
 Only one notebook called Seattle Airbnb Dataset that has the analysis and the answering of the four questions 
-also three CSV file calendar, listings and reviews that were used in the notebook to help answering the questions.
+and the three CSV file calendar, listings and reviews that were used in the notebook to help answering the questions are in this link.
+https://www.kaggle.com/airbnb/seattle/data
 
 ## 4. summary of the results
 Results of the notebook analysis is in the blog post 
